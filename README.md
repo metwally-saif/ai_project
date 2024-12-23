@@ -20,14 +20,10 @@ ai_project
 │        └─ sentiment_data.csv                    
 ├─ models                                         
 │  ├─ medical_image_classification                
-│  │  ├─ class_indices.json                       
-│  │  ├─ model1.keras                             
-│  │  └─ model2.keras                             
+│  │  └─ class_indices.json                                                  
 │  └─ sentiment_analysis                          
 │     ├─ history1.npy                             
-│     ├─ history2.npy                             
-│     ├─ model1_cnn.keras                         
-│     └─ model2_bi_lstm.keras                     
+│     └─ history2.npy                                            
 ├─ notebooks                                      
 │  ├─ medical_image_classification                
 │  │  ├─ 1_data_exploration.ipynb                 
