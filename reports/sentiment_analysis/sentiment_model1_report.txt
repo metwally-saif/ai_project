@@ -1,9 +1,9 @@
               precision    recall  f1-score   support
 
-     Bearish       0.71      0.53      0.60       179
-     Bullish       0.77      0.60      0.67       240
-     Neutral       0.82      0.93      0.87       775
+     Bearish       0.68      0.51      0.58       179
+     Bullish       0.73      0.63      0.68       240
+     Neutral       0.84      0.93      0.88       775
 
     accuracy                           0.80      1194
-   macro avg       0.77      0.69      0.72      1194
-weighted avg       0.80      0.80      0.79      1194
+   macro avg       0.75      0.69      0.71      1194
+weighted avg       0.79      0.80      0.80      1194
