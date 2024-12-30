@@ -48,7 +48,11 @@ ai_project
 ├─ README.md                                      
 └─ requirements.txt                               
 
-
+## Getting Started
+1. Download the medical image dataset from [this link](https://huggingface.co/datasets/hf-vision/chest-xray-pneumonia)
+2. Place the downloaded images in `data/medical_images/raw/all_images/`
+3. make sure that the images names match the format image_{number}.jpg
+4. make sure that the `image_labels.csv` file matches the downloaded data
  
 
 ## Notebooks
